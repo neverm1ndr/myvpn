@@ -21,6 +21,7 @@ https://weirdmsk.mikata.ru:1984/sub/mskswe/2osum6540brtyzt9
 ![photo_2026-04-07_20-26-28](https://github.com/user-attachments/assets/ce9ea9d0-f601-42b3-b8e4-dfa24a157f15)
 
 После того, как все нужные действия были сделаны, можно увидеть, что нужная конфигурация добавилась в приложение. На этом вся найстройка завершена
+
 Для использования ВПН просто нажимаем кнопку включения посередине
 
 ![photo_2026-04-07_20-33-23](https://github.com/user-attachments/assets/87eb5f2a-53c0-4209-ab43-a256b774136c)
